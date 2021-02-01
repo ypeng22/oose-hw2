@@ -16,3 +16,8 @@ git push
 git checkout -b new-feature
 git add .
 git commit -m "added feature.md"
+git push
+git push --set-upstream origin new-feature
+git branch bug-1
+git branch bug-2
+git checkout bug-1
