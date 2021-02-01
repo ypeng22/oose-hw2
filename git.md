@@ -21,3 +21,9 @@ git push --set-upstream origin new-feature
 git branch bug-1
 git branch bug-2
 git checkout bug-1
+git add .
+git commit -m "Working on bug-1"
+git checkout bug-2
+git stash
+gid add .
+git cmmit -m "Fixed bug-1"
