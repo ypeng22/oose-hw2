@@ -14,3 +14,6 @@ git add .
 git commit -m "resolved git status"
 git push
 git branch
+git checkout -b new-feature
+git add .
+git commit -m "added feature.md"
