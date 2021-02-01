@@ -16,3 +16,5 @@ git push
 git checkout -b new-feature
 git add .
 git commit -m "added feature.md"
+git add .
+git commit -m "Fixed bug-2"
