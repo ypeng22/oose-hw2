@@ -13,3 +13,4 @@ git status
 git add .
 git commit -m "resolved git status"
 git push
+git branch
