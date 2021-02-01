@@ -7,3 +7,9 @@ git branch -M main
 git push -u origin main
 git add .
 git commit -m "added 621 oose readme"
+git push
+git pull
+git status
+git add .
+git commit -m "resolved git status"
+git push
