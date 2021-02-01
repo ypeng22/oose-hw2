@@ -17,3 +17,8 @@ git branch
 git checkout -b new-feature
 git add .
 git commit -m "added feature.md"
+git pull
+git status
+git add .
+git commit -m "fixed git.md"
+git push --all origin
